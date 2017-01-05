@@ -68,4 +68,8 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repository: https://github.com/nicolaspotato6174/myBlog.github.io.git
+  branch: master
+  plugins: -hexo-generator-feed
+      
