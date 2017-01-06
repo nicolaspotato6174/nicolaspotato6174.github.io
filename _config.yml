@@ -70,6 +70,6 @@ theme: next
 deploy:
   type: git
   repository: https://github.com/nicolaspotato6174/nicolaspotato6174.github.io.git
-  branch: gh-pages
+  branch: master
   
-      
+avatar: /uploads/who.png      
