@@ -72,4 +72,5 @@ deploy:
   repository: https://github.com/nicolaspotato6174/nicolaspotato6174.github.io.git
   branch: master
   
-avatar: /uploads/who.png      
+avatar: /uploads/who.png   
+baidu_analytics: 78c4cb1891192c3dcf0d8c7f7db6a799
