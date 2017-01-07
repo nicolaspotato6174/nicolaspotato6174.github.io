@@ -11,13 +11,13 @@ tags: Hexo
 
 
 ## 言归正传
-### 0.Hexo是什么
+### Hexo是什么
 简而言之，Hexo 是一个快速、简洁且高效的博客框架。Hexo 使用 Markdown（或其他渲染引擎）解析文章，在几秒 内，即可利用靓丽的主题生成静态网页。
 
-### 1.搭建
+### 搭建
 再次强调[Hexo说明文档](https://hexo.io/zh-cn/docs/index.html "Hexo")的重要性，如果接下来的步骤不适用你，赶紧去看说明文档吧 -、 -
 
-#### 1.1 安装 Hexo
+#### 安装 Hexo
 安装 Hexo 相当简单。然而在安装前，您必须检查电脑中是否已安装下列应用程序：
 [Node.js](https://nodejs.org/)
 [Git](http://git-scm.com/)
@@ -25,7 +25,7 @@ tags: Hexo
 `$ npm install -g hexo-cli`
 如果没有安装，自行参见[Hexo说明文档](https://hexo.io/zh-cn/docs/index.html "Hexo")。
 
-#### 1.2 建站
+#### 建站
 安装 Hexo 完成后，请执行下列命令，Hexo 将会在指定文件夹中新建所需要的文件。
 	$ hexo init
 	$ cd
@@ -49,6 +49,6 @@ tags: Hexo
 	$ hexo s #启动本地服务器测试
 这个时候在浏览器中输入http://localhost:4000 静态的网站架设完成！
 
-#### 1.3 Conclusion
+#### Conclusion
 非常简单吧，这样你本地博客的搭建就宣告完成啦。
 下次再分享如何讲本地博客部署到你的服务器上咯。_See you again_
