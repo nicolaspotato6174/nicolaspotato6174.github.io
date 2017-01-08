@@ -1,7 +1,7 @@
 ---
 title: TaiBai-fst
 date: 2017-01-08 01:25:03
-tags:
+tags: travel
 ---
 # TravelNote-fst
 ## TaiBai Spectacle
@@ -32,7 +32,7 @@ tags:
 #### __莲花瀑布__
 ![](01.jpg)
 
-绕来绕去，绕啊绕啊，到达__登山口__ 
+绕来绕去，绕啊绕啊，到达__登山口__
 ![](02.jpg)
 这种路，对于科三还没过的马路杀手来说，简直是噩梦  (⊙ˍ⊙)
 
